@@ -1,0 +1,8 @@
+# AFNI interactive cluster table
+# 3dclust -1Dformat -nosum -1dindex 0 -1tindex 0 -2thresh -0.5 0.5 -dxyz=1 1.01 2 /group_shares/piantinolab/bulk/IT_gad/IT_gad_redo/ITG-J2/J2_post2.nii.gz
+#Coordinate order = RAI
+#Voxels  CM x   CM y   CM z  Peak x Peak y Peak z
+#------ ------ ------ ------ ------ ------ ------
+      4  -23.6  -30.2   +6.2  -23.1  -29.7   +6.2
+      4  -18.6  -28.2   +7.2  -18.1  -27.7   +7.2
+      4  -24.6  -34.2   +7.2  -24.1  -33.7   +7.2
